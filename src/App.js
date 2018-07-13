@@ -39,6 +39,7 @@ class App extends Component {
     }
     if(this.state.ids.length === 12) {
       this.setState({ 
+        highestScore: 12,
         score: 0,
         ids: []
       })
