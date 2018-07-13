@@ -1,0 +1,63 @@
+[
+    {
+        "id": 1,
+        "name": "jellyfish",
+        "image": "https://picsum.photos/3500/2333?image=1069"
+    },
+    {
+        "id": 2,
+        "name": "walrus",
+        "image": "https://picsum.photos/4579/3271?image=1084"
+    },
+    {
+        "id": 3,
+        "name": "lion",
+        "image": "https://picsum.photos/5472/3648?image=1074"
+    },
+    {
+        "id": 4,
+        "name": "bear",
+        "image": "https://picsum.photos/4288/2848?image=1020"
+    },
+    {
+        "id": 5,
+        "name": "wolf",
+        "image": "https://picsum.photos/2274/1440?image=718"
+    },
+    {
+        "id": 6,
+        "name": "dog",
+        "image": "https://picsum.photos/3500/2095?image=237"
+    },
+    {
+        "id": 7,
+        "name": "leopard",
+        "image": "https://picsum.photos/5184/3456?image=219"
+    },
+    {
+        "id": 8,
+        "name": "cow",
+        "image": "https://picsum.photos/1920/1280?image=200"
+    },
+    {
+        "id": 9,
+        "name": "moose",
+        "image": "https://picsum.photos/2509/1673?image=577"
+    },
+    {
+        "id": 10,
+        "name": "mountain goat",
+        "image": "https://picsum.photos/4188/2792?image=937"
+    },
+    {
+        "id": 11,
+        "name": "vulture",
+        "image": "https://picsum.photos/1920/1280?image=1024"
+    },
+    {
+        "id": 12,
+        "name": "monkey",
+        "image": "https://picsum.photos/4096/2731?image=783"
+    }
+
+]

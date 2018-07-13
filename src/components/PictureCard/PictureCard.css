@@ -1,0 +1,24 @@
+button {
+    width: 200px;
+    height: 150px;
+    cursor: pointer;
+    background-color: #aaafc1;
+    border-radius: 12px;
+    margin: 2%;
+    margin-left: 5%;
+    outline: none;
+}
+
+.img-container {
+    width: 100%;
+    display: inline-block;
+}
+
+button:hover {
+    transform: scale(1.05);
+    box-shadow: 10px 10px 5px #d6d8db;
+}
+
+button:focus {
+    outline: none;
+}

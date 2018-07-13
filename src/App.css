@@ -1,0 +1,9 @@
+.content {
+    width: 100%;
+}
+.pictures {
+    width: 90%;
+    margin: auto;
+    margin-left: 5%;
+    justify-content: space-around;
+}
