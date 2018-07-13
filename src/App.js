@@ -37,7 +37,12 @@ class App extends Component {
         ids: []
       });
     }
-
+    if(this.state.ids.length === 12) {
+      this.setState({ 
+        score: 0,
+        ids: []
+      })
+    };
   }
 
   render() {
